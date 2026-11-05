@@ -1,50 +1,25 @@
-<p align="center">
-<img src="./assets/banner.gif" width="100%" alt="BL4CKSP4C Banner"/>
-</p>
+# BL4CKSP4C
 
-<h1 align="center">BL4CKSP4C</h1>
+Data Analyst focused on data engineering, process automation, and system security.
 
-<h3 align="center">ACCESS GRANTED_</h3>
+---
 
-<p align="center">
-DATA ANALYST // CYBER DEV // TECH ENTHUSIAST
-</p>
+### 💻 Tech Stack & Tools
 
-<p align="center">
-<img src="https://img.shields.io/badge/DATA-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/CYBER-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/CODE-00FF9C?style=flat-square&labelColor=0D1117"/>
-</p>
+* **Languages:** Python, SQL, Scala, R, PowerShell, Bash, VBA, DuckyScript, VBA and many others...
+* **Data & Analytics:** PySpark, Scikit-learn, TensorFlow, Qlik Sense, dataViz ... 
+* **Databases:** SQLite, MySQL, MongoDB, Hive/HDFS
+* **Infrastructure & Ops:** Linux, Docker, Git, Tailscale, Self-Hosted Services
 
-<br/>
+---
 
-<p align="center">
-<i>EXPLORE THE UNKNOWN · BUILD THE FUTURE</i>
-</p>
+### 🛠️ Hardware Lab & Gear
 
-01 // ABOUT ME
+*"Hack the planet"*
 
-bash
-$ whoami
+* 🐬 **Flipper Zero** (RFID/NFC clone, Sub-GHz sniffing & BadUSB scripts — Momentum firmware, ESP32 GPIO)
+* 🍍 **Hak5 Tools** (WiFi Pineapple Mark VII & Pager, USB Rubber Ducky)
+* 📻 **SDR / HackRF One** (PortaPack H4M, Mayhem firmware, radio signal analysis & spectrum monitoring)
+* 🔑 **iCopy-XS** (RFID/NFC duplicator & key dictionary analysis — Open Iceman firmware)
+* 💻 **Medicar / Rescue Media** (MediCat USB diagnostics & offline analysis toolkit)
 
-BL4CKSP4C
-> Data Analyst
-> Cyber Dev
-> Tech Enthusiast
-
-$ mission
-Explore. Analyze. Create.
-02 // TECH STACK
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,bash,mysql,git,github,vscode" />
-</p>
-
-03 // GITHUB ACTIVITY
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BL4CKSP4C&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL4CKSP4C&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" width="49%"/>
-</p>
-
-<p align="center">
-<sub>BL4CKSP4C © 2026 — ALL SYSTEMS OPERATIONAL_</sub>
-</p>
