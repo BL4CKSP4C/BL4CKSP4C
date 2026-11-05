@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/60015-2009.gif" width="500" alt="Animation" />
+  <img src="60015-2009.gif" width="500" alt="Animation" />
 </p> 
 
 # BL4CKSP4C
