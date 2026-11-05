@@ -1,3 +1,4 @@
+![Animation](60015-2009.gif)
 # BL4CKSP4C
 
 Data Analyst focused on data engineering, process automation, and system security.
