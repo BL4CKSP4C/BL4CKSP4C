@@ -1,4 +1,7 @@
-![Animation](60015-2009.gif)
+<p align="center">
+  <img src="./assets/60015-2009.gif" width="500" alt="Animation" />
+</p> 
+
 # BL4CKSP4C
 
 Data Analyst focused on data engineering, process automation, and system security.
